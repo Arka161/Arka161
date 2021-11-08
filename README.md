@@ -31,7 +31,7 @@ I'm Arka Mukherjee, and I have been writing code both as a hobby, and as a part 
 
 ## Education:
 
-- B.Tech in Computer Science and Engineering, [SRM University, India](https://www.srmist.edu.in/).
+- B.Tech. in Computer Science and Engineering, [SRM University, India](https://www.srmist.edu.in/).
 - M.Sc. in Computer Science and Deep Learning, [Université de Montréal](https://www.umontreal.ca/en/) and [Mila](https://mila.quebec/en/).
 - Special M.Sc. student, CREPUQ, [McGill University](https://www.mcgill.ca/)
 
