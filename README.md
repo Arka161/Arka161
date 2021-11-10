@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Arka Mukherjee, and I have been writing code both as a hobby, and as a part of jobs I've worked at. 
 
-- 🌱 I’m currently learning about self-supervised learning, image matching, edge detection.
+- 🌱 I’m currently learning about image matching, edge detection (Relevant to my contributions to Computer Vision repositories and my M.Sc. Thesis).
 - 💬 Ask me about video-games, movies.
 - ⚡ Fun fact: I'm a screenwriter turned developer, and some of my written works can be read at [here](https://drive.google.com/file/d/1icCKzUHPHIu-t79iw7I0s6cN2rJPAcRL/view?usp=sharing), [here](https://drive.google.com/file/d/1ajKBejAWnvaQ2OYgIKVNzjZmJXLRk-PJ/view?usp=sharing) and [here](https://medium.com/@arkamukherjee/clannad-after-story-how-jun-maeda-portrays-hedonism-1f84db2b9c81). My favourite screenwriters include Aaron Sorkin, the Coen brothers, Quentin Tarantino, Charlie Kaufman and Stanley Kubrick.
 - ⚡ Fun fact 2: I also *love* games, and I own a PS Classic, PS3, PS4, PS5, PS Vita, PSP, Xbox 360 and a Nintendo Switch. 
