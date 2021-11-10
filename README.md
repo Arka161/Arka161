@@ -27,7 +27,7 @@ I'm Arka Mukherjee, and I have been writing code both as a hobby, and as a part 
 - 📚Machine Learning Intern at Oracle ([OFSAA team](https://docs.oracle.com/cd/E92918_01/PDF/8.0.8.0.0/OIDF_HTML/Release_Notes/Overview_of_OFSAA.htm), Summer 2017 (Bengaluru, India). 
 - ☁️ Cloud Support Associate with the Developer and Mobile Services Team at [Amazon Web Services](https://youtu.be/CIuQZdq7_ao), 2018-2019 (Bengaluru, India). 
 - 🎮 Software Development Engineer with Gameberry Labs, extensively worked on [Parchisi STAR Online](https://play.google.com/store/apps/details?id=com.superking.parchisi.star&hl=en_CA&gl=US).
-- 📊 Research Intern at [Matrox Imaging](https://info.matrox.com/imaging/adw/iris-gtx/smartest-fastest-out-there?utm_term=matrox%20imaging&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=5075582178&hsa_cam=8656411336&hsa_grp=127012989359&hsa_ad=557049502681&hsa_src=g&hsa_tgt=kwd-397252618074&hsa_kw=matrox%20imaging&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAsqOMBhDFARIsAFBTN3cFhUEUMngkhRoQhIs5FmgRRST9wzy50UvQ_sNTvk_UpKLCmvyiQg4aAmj6EALw_wcB), working on SOTA CNN architectures. 
+- 📊 Research Intern at [Matrox Imaging](https://www.matrox.com/en/imaging, working on SOTA CNN architectures. 
 
 ## Education:
 
