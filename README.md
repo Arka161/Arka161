@@ -30,6 +30,11 @@ I'm Arka Mukherjee, and I have been writing code both as a hobby, and as a part 
 - 🎮 Software Development Engineer with Gameberry Labs, extensively worked on [Parchisi STAR Online](https://play.google.com/store/apps/details?id=com.superking.parchisi.star&hl=en_CA&gl=US).
 - 📊 Research Intern at [Matrox Imaging](https://www.matrox.com/en/imaging), working on SOTA CNN architectures for several vision domains (May '21 to present). 
 
+## Stats:
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Arka161&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Arka161&langs_count=5&theme=tokyonight)]()
+
 ## Education:
 
 - B.Tech. in Computer Science and Engineering, [SRM University, India](https://www.srmist.edu.in/).
