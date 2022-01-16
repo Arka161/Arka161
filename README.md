@@ -33,7 +33,6 @@ I'm Arka Mukherjee, and I have been writing code both as a hobby, and as a part 
 ## Stats:
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Arka161&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Arka161&langs_count=5&theme=tokyonight)]()
 
 ## Education:
 
