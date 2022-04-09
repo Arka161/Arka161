@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Arka Mukherjee, and I have been writing code both as a hobby, and as a part of jobs I've worked at. 
+I'm Arka Mukherjee, and I have been writing code both as a hobby, and as a part of jobs I've worked at for 12+ years. 
 
 - 🌱 I’m currently learning about image matching, edge detection (Relevant to my contributions to Computer Vision repositories and my M.Sc. Thesis).
 - 💬 Ask me about video-games, movies.
