@@ -38,9 +38,9 @@ I'm Arka Mukherjee, and I have been writing code both as a hobby, and as a part 
 
 - 📚Machine Learning Intern at Oracle ([OFSAA team](https://docs.oracle.com/cd/E92918_01/PDF/8.0.8.0.0/OIDF_HTML/Release_Notes/Overview_of_OFSAA.htm), Summer 2017 (Bengaluru, India). 
 - ☁️ Cloud Support Associate with the Developer and Mobile Services Team at [Amazon Web Services](https://youtu.be/CIuQZdq7_ao), 2018-2019 (Bengaluru, India). 
-- 🎮 Software Development Engineer with Gameberry Labs, extensively worked on [Parchisi STAR Online](https://play.google.com/store/apps/details?id=com.superking.parchisi.star&hl=en_CA&gl=US).
+- 🎮 Software Development Engineer with [Gameberry Labs](http://gameberrylabs.com/), extensively worked on [Parchisi STAR Online](https://play.google.com/store/apps/details?id=com.superking.parchisi.star&hl=en_CA&gl=US).
 - 📊 Research Scientist Intern at [Matrox Imaging](https://www.matrox.com/en/imaging), working on SOTA CNN architectures for several vision domains (May '21 to April '22). To be acquired by [Zebra Technologies](https://www.zebra.com/us/en.html). 
-- Machine Learning Engineer II at [Fortinet Canada](https://www.fortinet.com/), starts from May 2022. 
+- 🐱‍💻 Machine Learning Engineer II at [Fortinet Canada](https://www.fortinet.com/), starts from May 2022. 
 
 ## Stats:
 
