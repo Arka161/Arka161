@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p float="center">
-  <img src="Oracle.jpg"  width="80"/>
+  <img src="Oracle.jpg"  width="100"/>
   &emsp;
 </p>
 
