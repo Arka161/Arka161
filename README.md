@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p float="center">
-  <img src="Oracle.jpg"  width="150"/>
+  <img src="ORACLESQ.png"  width="150"/>
   &emsp;
   <img src="GBL.png"  width="150"/>
   &emsp;
