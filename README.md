@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p float="center">
+  <img src="Oracle.jpg"  width="80"/>
+  &emsp;
+</p>
+
 <!--
 **Arka161/Arka161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
