@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 <p float="center">
-  <img src="orwhite.png"  width="165"/>
+  <img src="orwhite.png"  width="170"/>
   &emsp;
-  <img src="GBL.png"  width="165"/>
+  <img src="GBL.png"  width="170"/>
   &emsp;
-  <img src="AWSLogo.png"  width="165"/>
+  <img src="AWSLogo.png"  width="170"/>
   &emsp;
-  <img src="FTNT.png"  width="165"/>
+  <img src="FTNT.png"  width="170"/>
 </p>
 
 <!--
