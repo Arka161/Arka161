@@ -6,6 +6,10 @@
   <img src="GBL.png"  width="150"/>
   &emsp;
   <img src="AWSLogo.png"  width="150"/>
+  &emsp;
+  <img src="MilaLogo.jpg"  width="150"/>
+  &emsp;
+  <img src="udem.png"  width="150"/>
 </p>
 
 <!--
