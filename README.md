@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p float="center">
-  <img src="ORACLESQ.png"  width="150"/>
+  <img src="orwhite.png"  width="150"/>
   &emsp;
   <img src="GBL.png"  width="150"/>
   &emsp;
