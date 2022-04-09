@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 <p float="center">
-  <img src="Oracle.jpg"  width="100"/>
+  <img src="Oracle.jpg"  width="150"/>
   &emsp;
+  <img src="GBL.png"  width="150"/>
+  &emsp;
+  <img src="AWSLogo.png"  width="150"/>
 </p>
 
 <!--
