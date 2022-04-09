@@ -10,6 +10,8 @@
   <img src="MilaLogo.jpg"  width="150"/>
   &emsp;
   <img src="udem.png"  width="150"/>
+  &emsp;
+  <img src="ftntt.png"  width="150"/>
 </p>
 
 <!--
